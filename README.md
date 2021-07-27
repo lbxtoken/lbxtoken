@@ -20,7 +20,6 @@ As the value of LBX continues to increase, there will be an inflection point whe
 </p>
 
 <h2>About the project</h2>
-<h2>About the project</h2>
 <p>ICO stands for a token or cryptocurrency initial offering crowdsale. It is a common method in blockchain space, decentralized applications and in-game tokens for bootstrap funding of your project.</p>
 <p>This project aims to provide standard, secure smart contracts and tools to create crowdsales for Ethereum blockchain.</p>
 <p>As the writing of this, Ethereum smart contract ICO business has been booming almost a year. The industry and development teams are still figuring out the best practices. A lot of similar smart contracts get written over and over again. This project aims to tackle this problem by providing reusable ICO codebase, so that developers can focus on their own project specific value adding feature instead of rebuilding core crowdfunding logic. Having one well maintained codebase with best practice and security audits benefits the community as a whole.</p>
